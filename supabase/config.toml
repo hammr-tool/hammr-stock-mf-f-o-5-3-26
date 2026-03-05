@@ -1,0 +1,40 @@
+project_id = "pwgyofkkmiqcuhgqiosx"
+
+[functions.fetch-economic-calendar]
+verify_jwt = false
+
+[functions.fetch-global-market]
+verify_jwt = false
+
+[functions.fetch-holiday-calendar]
+verify_jwt = false
+
+[functions.fetch-live-chart-data]
+verify_jwt = false
+
+[functions.fetch-market-analysis]
+verify_jwt = false
+
+[functions.fetch-market-indices]
+verify_jwt = false
+
+[functions.fetch-option-data]
+verify_jwt = false
+
+[functions.fetch-technical-data]
+verify_jwt = false
+
+[functions.fetch-fii-dii-data]
+verify_jwt = false
+
+[functions.fetch-stock-search]
+verify_jwt = false
+
+[functions.fetch-stock-details]
+verify_jwt = false
+
+[functions.fetch-market-movers]
+verify_jwt = false
+
+[functions.seed-stock-data]
+verify_jwt = false
